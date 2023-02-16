@@ -21,7 +21,7 @@ public class Lab {
 
     }
     public Object instantiateANewObject(){
-        Lab bio = new Lab();
-        return bio;
+        Lab biology = new Lab();
+        return biology;
     }
 }
